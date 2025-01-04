@@ -8,3 +8,6 @@
 - [x] Q4: Image Smoother
 - [x] Q5: Minimum Steps(Equal Array)
 - [x] Q6: Random Point in Non Overlapping Rectangle   
+- [x] Q7: Bulls And Cows
+- [x] Q8: Nice Subarrays
+- [x] Q9: Repeated DNA  
